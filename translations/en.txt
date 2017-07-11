@@ -1,0 +1,615 @@
+﻿English
+Loading...
+Press space to start!
+Exit
+New game
+Load game
+Credits
+Language
+back
+Author
+Sign up!
+Registration
+Nick
+Gender
+Avatar
+Favourite color
+enter nickname
+Android Version
+//Profesor intro
+Hey! Good to see you!
+Welcome to the world of Tube Tycoon!
+My name is Bionicl
+People call me Tube Professor 
+I'll guide you through this wonderful world
+inhabited by creatures that we call... Tube Tycooners
+For some people, it is for fun.
+Others use it to make real money!
+Myself...
+I study Tube Tycoon as a profession.
+Your very own legend is about to unfold!
+p.s: Love from ewbank <3
+
+A world of dreams and adventures awaits!
+Let's go!
+
+Office
+Notifications
+RECORDING
+EDITING
+PUBLISHING
+PUBLISHED
+Career
+Record movie
+Record game
+
+//Movies types
+Basic vlog
+Daily vlog
+Gifts unboxing
+Tag
+Cooking video
+Sports video
+Prank
+Show
+
+
+
+
+Record some movies/games to see statistics!
+Already recorded
+All views
+Total money earned
+From:
+To:
+
+
+
+Your card does not meet the game engine requirements! Try updating the drivers. Game can be unstable...
+Visit Facebook fanpage
+Computer version
+Visit game's website
+//Record Vlog
+Simple Vlogs
+Tags
+Sport&Cooking
+Other
+Basic Vlog
+
+Daily Vlog
+
+Opening gifts
+from fans
+Record tag
+
+Create
+your own tag
+Cooking video
+what we will cook today?
+Sports video
+show us what you can!
+Prank
+spiderdog, and more!
+
+About
+BLOCKED
+RECORD
+RECORDED
+N/A
+OCCUPIED
+Interest
+Recorded a total of
+
+The process of creating your movie will take:
+sec
+Proposed title
+Start typing to change title!
+Ep.
+
+
+//Skills
+Basic vlogs
+Daily vlogs
+Record tags
+Cooking videos
+Sport videos
+Pranks
+Record show
+Green screen
+Create own tags
+Gifts from fans
+Basic games
+Single player
+2nd&3rd recording slots
+Minecraft Single player
+Minecraft adventure
+Minecraft Multi other
+Multi player
+Online games
+Co-op games
+Games from fans
+Exclusive games
+Explosions in the films
+The W brotherhood
+x2 faster publication
+Channel intro
+Reflinks
+
+Just sit, start the camera and talk on the topic given. As easy as pie.
+Your crazy fangirls would like to see your daily routine. Mind showing them some?
+Tags are like truth or dare game, but with other YouTubers.
+You think, you're a better cook than Gordon Ramsay? Prove it to your subs.
+Start with running. Try some push-ups.Yoga maybe? Finish with your fame rising to the top!
+Spiderdog? Elevator prank? Impress people with your weird, extraordinary ideas.
+Fame, money and great carrier. But tbh start with the idea. That's what really matters.
+We don't need no amateurship. Unroll the greenscreen and release the magic or even deep space.
+Remember the tags? Now it's your turn to humil... challenge other YouTubers.
+Everybody knows you. Check your mailbox, there will surely be sth nice to unbox inside.
+You can play them endlessly. However you shouldn't expect many views.
+Turn on your microphone, open your favourite and let the game begin. Relax, take it easy.
+One series isn't enough to entertain for long. Add some colours to your channel.
+Feeling like diggin' some dirt? You've come to the right place.
+It's time to socialise with a couple of human beings. Play adventure maps with friends!
+Gather your mates and make a series like no other. Teamwork's OP.
+You're not the only player around. It's time to show who's the boss. It's fun & subscribers like it too.
+Simple and calm, the browser games as the are. Reflinks <3
+Connect to Skype, and surf on the wave of galactical flow with your fellow YT stars.
+Have you ever wanted a game, made just for you? Now you get a couple everyday!
+Even MegaGameCorps admire your reputation. They send you some exclusive stuff to try out
+Nothing can catch the attention better than an ol' good explosion.
+Neither FBI nor MI6 could solve the mystery of The Brotherhood. It's high time you changed it.
+Don't stay behind. Buy a mile long optical fiber and 1 TB/s transfer and you'll be good for a while.
+You have to care about you brand. Enhance your channel with a short intro movie.
+"Hey guys, try this game out..." BOOM! Your account balance: Millions of $$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Points required
+FILMS
+OTHER
+GAMES
+Points to distribute
+Unavailable
+BUY SKILL
+ALREADY BOUGHT
+UNAVAILABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Notyfications 241
+You lack energy
+You can record max 3 films simultaneously
+Accept all the films first!
+Buy the skill in Career menu first
+Already recorded today! Come back tomorrow
+No new gifts! Try again later...
+No new invitations, try again later...
+Hey honey, wait a sec!
+As you know, the game is free. If you like it, and you want it to grew bigger and better, I invite you to contribution site. Every coin is welcome, and you get the chance to appear in game! Interested? ;)
+OF COURSE!
+LATER
+Confirm shutdown
+Close the game? All unsaved progress will be lost. Autosave is made when sleeping.
+CLOSE
+CANCEL
+lolololololol 2 - dotacja
+The game is being recorded in this slot
+Last episode
+Confirm recording last episode. You won't be able to record this game anymore but it will make space for a new one. It's good to use this option if interest is low.
+RECORD
+CANCEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Tutorial
+Widzę, że jesteś już po rejestracji, pięknie! Witaj w biurze, to tutaj będą podejmowane wszystkie najważniejsze decyzje dotyczące twojej przyszłości!
+Zacznijmy od wybrania ścieżki, którą będziesz podążał! Kliknij opcję 'Kariera' aby dowiedzieć się więcej!
+Oto drzewko umiejętności. Tak, tak, sam nie wiem, czy dożyjemy momentu, kiedy uda się to wszystko odblokować :D
+Gdy obejrzysz już sobie wszystkie opcje, zwróć uwagę na dwie możliwości umieszczone najwyżej: nagrywanie filmów oraz nagrywanie gier.
+To właśnie od nich zaczniesz swe zmagania. Pamiętaj jednak, że wybierając jedno, nie wyklucza to możliwości rozpoczęcia też innej drogi, więc eksperymentuj!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Side Notyfications
+New mail
+click here to read
+a new message!
+Recommendation!
+liked your movie
+Bad luck!
+hated your movie
+User
+subs
+to read, open
+the notification center
+New tag
+
+
+
+
+
+
+
+
+
+
+
+
+ost
+
+//Translation
+Translation by Marcel Daniluk
+Select language
+Unfortunately, only Polish YouTubers are currently in the game. People from other countries will be added in the future!
+Start your adventure!
+Be aware this is not the final version of the game ;)
+
+
+
+
+Settings
+Setting
+bug/idea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+City
+Welcome traveller! After coming in here, you are for sure concerned, what this place might be... We are the Brotherhood associating alchemist from all countries. We possess ancient knowledge of arcane elixirs which give great power and might! For a humble fee we'll help you in creating one of them... What say you?  
+Hahaha, marvellous!
+Now, choose the appropriate ingredients.
+
+Return to office
+Visit W brotherhood
+Visit games shop
+Close
+Essence
+Powder
+of time
+of activity
+of fame
+of publishing
+of energy
+of luck
+of interest
+of experience
+of amount
+Brew
+Skill improved!
+Shorter publication time
+The publication time is 2 s shorter now! From now on accepting films won't last forever!
+Longer interest in games
+Thanks to the potion you comment your games even better! From now on you can record more episodes before the game becomes dull.
+Max energy enhanced
+I'm I right or... Yes! This green bar of your's just shaked. From now on you have more energy to spend during the day!
+More exp for recording
+After drinking the mixture you feel kind of more... academic! From now on every film gives you more experience points than usual!
+Bigger recommendation chance!
+Wow! Somehow you're now more likeable than before?! From now on you have bigger chance of being recommended by famous youtubers!
+Recommendations give more viewers.
+Try not to drown in the overwhelming numbers of subscribers. From now on every time you are being recommended by a YT fame you gain more viewers.
+Haha! So YOU are the person we've been told so much about! I would like to tell you what we are doing here, but this would be the last thing you would ever hear... Well... First unlock the corresponding skill in "Career" menu!*Only then we may talk...
+Well you want to use our service once more? Not so fast! We'll need few moons until our magical cauldron's energy recharges... Meanwhile you can take a tour around this wonderful surroundings. Can you see the beatiful tint of light? We see it everyday here!
+Hello friend, they call me Gaben.*I'm here because I bought this family business. This old miserable game shops dare think they can survive in the modern world.*However, if you are here to buy games to record, you will find those in "TubeStim" - it is where you usually record new let's plays!*Remember Gaben is love, Gaben is life.*Gaben.
+Games shop
+//Letters
+Congratulations!
+Support 
+Our team has just found out you uploaded a very first movie on your channel. We hope it is the one that marks the start of your great career and that you will show everyone who rules the YouTube world! Try to imagine a beautiful ship in the middle of the ocean. You are standing on the deck! Wind blowing in your face, the sound of waves in your ears... do you feel it? Yes, this is the success! You can achieve it, we believe in you!**Best wishes,*Admins
+Partnership
+Support
+Congratulations!*You just crossed the magic number of 100 subscribers! Our experts looked through your channel and it was accepted for our partnership program. But what's in it for you? Tomorrow we will add ads to your film. Ads mean income and income means money. Every evening, starting tomorrow we will send an invoice containing informations how much you have earned.**Thank you, for being with us!*Server admins
+New tag to record!
+Hello!*I'd like to invite you to record a tag on**
+**I just recorded it on my channel and i think you may like it! Good luck in recording!*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// RecordGame/TUBESTIM 
+Slot
+Browse library
+Slot locked
+Start new series!
+Back
+Game locked
+Game available
+You are recording this game
+Game recorded
+Lack of money
+Game can be continued
+
+
+Basic game
+Singleplayer game
+Minecraft singleplayer
+Minecraft adventure
+Minecraft multiplayer other
+Multiplayer game
+Online game
+Co-op game
+Game from fans
+Exclusive game
+
+
+
+Let's play
+Record
+
+
+Game cost
+Played for
+
+
+
+
+
+
+Click anywhere to start new day!
+Click anywhere to wake up and welcome new day!
+New day awaits! Click anywhere...
+The weather is tubetastic! Click anywhere to enjoy new day!
+Feeling sleepy? Click anywhere, and you will be fully revitalised!
+Oooh yea! This day will be awesome! Click anywhere...
+Nothing brightens the mood more than a couple of new films! Click anywhere...
+//Sleep 17
+End of day
+!
+Current level
+Max energy
+New
+Level
+Game saved
+ACCOUNT
+Rec.Games
+Rec.Movies
+Other
+TAX
+Brotherhood
+Rent
+SUM
+Prv.Balance
+
+
+
+
+
+//Cooking
+How to cook
+How to prepare
+We are burning
+
+
+
+
+
+
+
+
+//Comments
+COMMENTS
+Best comments

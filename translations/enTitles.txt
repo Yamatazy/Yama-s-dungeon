@@ -1,0 +1,230 @@
+//Simple Vlogs adjectives
+blue
+crazy
+new
+unpredictable
+paranormal
+exciting
+enormous
+apotropaic
+gargantuic
+comely
+precipitate
+delicious
+respectable
+epic
+gloomy
+vector
+cute
+sicilian
+lively
+scrumptious
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//Simple Vlogs nouns
+Jack
+doggy
+YouTube
+camera
+bunny
+cookies 
+unicorn 
+electric motor
+carpet
+Facebook
+dragons
+barrel
+pizza
+carousel
+ukulele
+potato
+suitcase
+ferret
+glitter
+salad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whats on my phone?
+Whats in my purse?
+What I order at Starbucks?
+Movie that changed my whole life!
+Questions Nobody Asks
+50 facts about me
+20 extra facts about me
+My first date
+My first time
+Selfie tag
+My wishes
+My perfect imperfections
+Just one word
+Questions they never ask
+1,2,3 tag
+This or that?
+Best friend tag
+Wreck this journal
+Hair dyeing!
+7 things that I'm afraid of!
+What if I will die tomorrow?
+Price tag
+Would you rather?
+5 random facts about me
+My makeup history
+What 3 things I'll take to a desert island
+Video game tag
+The dream of dreams
+Color of what I dream every night
+Home alone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baked Orange French Toast
+Salmon with Brown Sugar Glaze
+Yomato and Corn Casserole
+Waffle Grilled Pineapple
+Mediterranean Chickpea Salad
+Banana-Nutella S'mores
+Salmon with Salsa Cruda
+Ginger Peach Sorbet
+Summer Berry Pie
+Classic Apple Pie
+Dill-Seed Biscuits
+Mushroom and Mozzarella Wraps
+Pumpkin Lasagne
+Raspberry Ice Cream Cake
+Cuban Black Beans
+Hearty Coq au Vin
+Potato and Split Pea Soup
+Roasted Bell Peppers
+Clam Risotto with Bacon
+Marinated Cucumbers
+Potato Pie with Tomato
+Pasta with Tapenade
+Paella
+Black-Eyed Pea Soup
+Tangy Marinated Fried Chicken
+Spicy Sweet Potato Wedges
+Spicy Brussels Sprouts
+Chocolate-Raspberry Napoleons
+Lemon Ricotta Cookies
+Ice Cream Snowballs
+Mini Roasts
+Crispy Sweet Potato Salad
+Spaghetti alla Carbonara
+Grilled Mushroom Quesadillas
+Poussins with Cherry Sauce
+Peanut Butter Cups
+Seafood Risotto
+Alsatian-Style Chicken
+Golden Raisin-Bran Muffins
+Roast Prime Rib
+Balsamic Vinegar Chicken
+Turkey Scaloppine
+Asian Cucumber Salad
+Pasta Salad Nicoise
+Almond Crescents
+Normandy Seafood Stew
+California Turkey Trio
+Spanish Omelet
+Greek Rice Salad
+Tutti Fruitti Rice Salad
